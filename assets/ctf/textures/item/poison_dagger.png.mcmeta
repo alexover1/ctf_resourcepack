@@ -1,0 +1,42 @@
+{
+  "animation": {
+    "frametime": 2,
+    "frames": [
+      { "index": 0, "time": 8 },
+      { "index": 1, "time": 8 },
+      { "index": 2, "time": 8 },
+      { "index": 3, "time": 8 },
+      { "index": 4, "time": 8 },
+      { "index": 5, "time": 8 },
+      { "index": 6, "time": 8 },
+      { "index": 7, "time": 8 },
+      { "index": 8, "time": 8 },
+      { "index": 9, "time": 8 },
+      { "index": 10, "time": 8 },
+      { "index": 11, "time": 8 },
+      { "index": 12, "time": 8 },
+      { "index": 13, "time": 8 },
+      { "index": 14, "time": 8 },
+      { "index": 15, "time": 8 },
+      { "index": 16, "time": 8 },
+      { "index": 17, "time": 8 },
+      { "index": 18, "time": 8 },
+      { "index": 19, "time": 8 },
+      { "index": 20, "time": 8 },
+      { "index": 21, "time": 8 },
+      { "index": 22, "time": 8 },
+      { "index": 23, "time": 1 },
+      { "index": 24, "time": 1 },
+      { "index": 25, "time": 1 },
+      { "index": 26, "time": 1 },
+      { "index": 27, "time": 1 },
+      { "index": 28, "time": 1 },
+      { "index": 29, "time": 1 },
+      { "index": 30, "time": 1 },
+      { "index": 31, "time": 1 },
+      { "index": 32, "time": 1 },
+      { "index": 33, "time": 1 },
+      { "index": 34, "time": 1 }
+    ]
+  }
+}
