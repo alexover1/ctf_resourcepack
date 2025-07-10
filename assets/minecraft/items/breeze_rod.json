@@ -5,6 +5,16 @@
     "component": "minecraft:item_name",
     "cases": [
       {
+        "when": {
+            "text": "Levitation Wand",
+            "color": "aqua"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctf:item/levitation_wand"
+        }
+      },
+      {
         "when": "Levitation Wand",
         "model": {
           "type": "minecraft:model",
@@ -14,7 +24,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "ctf:item/levitation_wand"
+      "model": "minecraft:item/breeze_rod"
     }
   }
 }

@@ -8,7 +8,7 @@
         "when": "Shepherd's Rod",
         "model": {
           "type": "minecraft:model",
-          "model": "ctf:item/fire_wand"
+          "model": "ctf:item/shepherds_rod"
         }
       }
     ],

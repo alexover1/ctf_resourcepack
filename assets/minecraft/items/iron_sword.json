@@ -5,6 +5,16 @@
     "component": "minecraft:item_name",
     "cases": [
       {
+        "when": {
+          "text":"Poison Dagger",
+          "color":"white"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctf:item/poison_dagger"
+        }
+      },
+      {
         "when": "Poison Dagger",
         "model": {
           "type": "minecraft:model",

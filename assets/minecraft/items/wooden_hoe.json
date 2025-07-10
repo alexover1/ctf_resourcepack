@@ -5,6 +5,16 @@
     "component": "minecraft:item_name",
     "cases": [
       {
+        "when": {
+          "text":"Shepherd's Rod",
+          "color":"white"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctf:item/shepherds_rod"
+        }
+      },
+      {
         "when": "Shepherd's Rod",
         "model": {
           "type": "minecraft:model",
