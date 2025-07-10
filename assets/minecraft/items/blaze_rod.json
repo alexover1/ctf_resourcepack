@@ -5,16 +5,16 @@
     "component": "minecraft:item_name",
     "cases": [
       {
-        "when": "Levitation Wand",
+        "when": "Fire Wand",
         "model": {
           "type": "minecraft:model",
-          "model": "ctf:item/levitation_wand"
+          "model": "ctf:item/fire_wand"
         }
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "ctf:item/levitation_wand"
+      "model": "ctf:item/fire_wand"
     }
   }
 }
