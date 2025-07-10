@@ -5,6 +5,16 @@
     "component": "minecraft:item_name",
     "cases": [
       {
+        "when": {
+          "text": "Fire Wand",
+          "color": "yellow"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "ctf:item/fire_wand"
+        }
+      },
+      {
         "when": "Fire Wand",
         "model": {
           "type": "minecraft:model",
@@ -14,7 +24,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "ctf:item/fire_wand"
+      "model": "minecraft:item/blaze_rod"
     }
   }
 }
