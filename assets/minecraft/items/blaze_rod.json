@@ -11,14 +11,14 @@
         },
         "model": {
           "type": "minecraft:model",
-          "model": "ctf:item/fire_wand"
+          "model": "ctf:item/fire_rod"
         }
       },
       {
         "when": "Fire Wand",
         "model": {
           "type": "minecraft:model",
-          "model": "ctf:item/fire_wand"
+          "model": "ctf:item/fire_rod"
         }
       }
     ],
