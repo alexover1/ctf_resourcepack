@@ -5,7 +5,7 @@
     "component": "minecraft:item_name",
     "cases": [
       {
-        "when": "Fire Powder",
+        "when": "Fire Wand",
         "model": {
           "type": "minecraft:model",
           "model": "ctf:item/fire_wand"
@@ -14,7 +14,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/blaze_powder"
+      "model": "ctf:item/fire_wand"
     }
   }
 }
